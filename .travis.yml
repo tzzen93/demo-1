@@ -14,4 +14,4 @@ branches:
 deploy:
   provider: heroku
   api_key: 8aab5728-195b-4e4a-a8f2-83a96c70e296
-  app: demo1mep
+  app: zen-demo
